@@ -8,7 +8,7 @@ To facilitate research on the sleep symptomatology occurring during opioid withd
 
 <u>Treatment 2:</u> Bidaily SC injections of saline over 5 days followed by 7 days without injections.
 
-Read more about the data collection and scoring protocol in the [CMMW Supplemental Documentation (PDF)](:files_path:/documentation/CMMW_NSRR_Supplemental_Documentation.pdf).
+Read more about the data collection and scoring protocol in the [CMMW Supplemental Documentation (PDF)](https://sleepdata.org/datasets/cmmw/files/m/browser/CMMW_NSRR_Supplemental_Documentation.pdf?inline=1).
 
 ## Data overview
 
